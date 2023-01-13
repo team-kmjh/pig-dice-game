@@ -3,4 +3,5 @@ from time import sleep
 
 dice_num  = randint(1, 6+1)
 user_result = 0
-goal = 100
+user_total_result = 0
+goal = 10
